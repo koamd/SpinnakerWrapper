@@ -37,7 +37,7 @@ image_result = polar_cam.grab_image()
 ```
 
 
-To Convert frame to the respective filtered images and deglare output in numpy.
+To Convert frame to the respective filtered images and deglared output in numpy.
 
 ```python
 image_polarized_i0, image_polarized_i45, image_polarized_i90, image_polarized_i135, image_dolp, image_deglared = polar_cam.grab_all_polarized_image(image_result)
