@@ -115,7 +115,7 @@ Run the GUI in the terminal:
 sudo -E python3.8 gui/controller/qt_polarcam_controller.py
 ```
 
-###3. To use the app. 
+### 3. To use the app. 
 
 Click on "Start Camera Preview" button to start the video streaming. You should see the glare and deglared image. 
 
